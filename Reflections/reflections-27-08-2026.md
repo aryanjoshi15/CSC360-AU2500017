@@ -15,7 +15,4 @@ java .
 - java-Controls means buttons used in the gui of software, fxml gives you a layout structure to design , java-web is for browser related process, java-media is used to with audio and video.
 
 
-
-
-
-
+Apart from these, we also dicussion various character sets like utf-8, utf-16 and AscII. Althought we have newer character sets like utf-8, we still use Ascii in some program, as it occupies lesser memory and can make the program a lot efficient.
